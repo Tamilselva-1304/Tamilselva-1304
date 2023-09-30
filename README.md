@@ -1,4 +1,4 @@
-[![MasterHead](https://www.optimalvirtualemployee.com/wp-content/uploads/2023/01/front-end-development.gif)]
+![MasterHead](https://www.optimalvirtualemployee.com/wp-content/uploads/2023/01/front-end-development.gif)
 <h1 align="center">Hello 👋, I'm Tamil Selvan</h1>
 
 # 💫 About Me:
